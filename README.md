@@ -1,1 +1,2 @@
-# React-KPportfolio
+# React-Portfolio
+react front end, js
